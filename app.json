@@ -1,10 +1,10 @@
 {
   "expo": {
-    "name": "TimerApp",
-    "slug": "TimerApp",
+    "name": "CountDowner App",
+    "slug": "CountDowner App",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/icon.png",
+    "icon": "./assets/timer-icon.png",
     "userInterfaceStyle": "light",
     "newArchEnabled": true,
     "splash": {
