@@ -5,7 +5,7 @@ This is a React Native Timer Application that allows users to create, start, pau
 ## 🛠️ Setup Instructions
 1. **Clone the repository:**  
    `git clone https://github.com/Aman-Jangir/react-native-multi-timer.git`  
-   `cd timerApp`  
+   `cd react-native-multi-timer`  
 
 2. **Install dependencies:**  
    Ensure you have **Node.js** and **npm** installed, then run:  
